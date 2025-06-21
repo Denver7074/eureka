@@ -27,5 +27,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: git.ilabtech.tech/<ваше_имя>/eureka:${{ github.run_number }}
+          tags: git.ilabtech.tech/d.stolbinskiy/eureka:${{ github.run_number }}
 
